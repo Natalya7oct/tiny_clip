@@ -1,0 +1,9 @@
+coco.sh - для скачивания датасета coco
+
+get_annotations - для получения аннотаций для датасета
+
+image_encoders - для получения эмбеддингов картинок
+Используются следующие эмбединги: resnet50, xception, vgg19, inceptionv3, densenet, clip
+
+text_encoders - для получения эмбеддингов аннотаций
+Используются следующие эмбединги: distilbert, minilm, xtremedistil, gpt2, electra, clip
